@@ -1,0 +1,28 @@
+id: I000001
+source: null
+source_file: null
+initial_creation_type: input
+imported: '2022-06-01T11:35:18.393469'
+last_modified: '2022-06-01T11:35:18.393489'
+parser: null
+source_metadata:
+  text_id: D4004
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+bases:
+  7bhd:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1PD95878
+      total_pages: 1810
+      volume_number: 33
+      volume_pages_bdrc_intro: 2
+    order: 33
+    base_file: 7bhd.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99999994
+      ocr_word_mean_confidence_index: 0.9773385621249315
+license: null
